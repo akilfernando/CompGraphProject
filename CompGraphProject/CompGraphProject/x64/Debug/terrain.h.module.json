@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\terrain.h.obj",
+            "outputs": [
+                "C:\\Users\\akilf\\Downloads\\CompGraphProject (1)\\CompGraphProject\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\akilf\\Downloads\\CompGraphProject (1)\\CompGraphProject\\x64\\Debug\\terrain.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "terrain.h",
+                    "source-path": "c:\\users\\akilf\\downloads\\compgraphproject (1)\\compgraphproject\\terrain.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

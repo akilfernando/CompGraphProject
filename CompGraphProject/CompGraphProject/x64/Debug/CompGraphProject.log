@@ -1,0 +1,159 @@
+﻿  Scanning sources for module dependencies...
+  terrain.h
+  Compiling...
+  terrain.h
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(17,1): warning C4005: 'SEACOLS': macro redefinition
+  C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(15,1):
+  see previous definition of 'SEACOLS'
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(34,31): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(34,36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(34,41): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(91,18): warning C4244: 'initializing': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(92,18): warning C4244: 'initializing': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(104,48): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(104,85): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(105,42): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(105,67): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(112,48): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(112,85): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(113,42): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(113,67): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(120,48): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(120,85): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(121,42): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(121,67): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(128,48): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(128,85): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(129,42): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(129,67): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(142,17): warning C4244: 'initializing': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(143,32): warning C4244: 'argument': conversion from 'GLint' to 'float', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(173,44): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(175,44): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  main.c
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(17,1): warning C4005: 'SEACOLS': macro redefinition
+  (compiling source file 'main.c')
+  C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(15,1):
+  see previous definition of 'SEACOLS'
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(34,29): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(104,48): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(104,85): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(105,42): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(105,67): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(112,48): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(112,85): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(113,42): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(113,67): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(120,48): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(120,85): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(121,42): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(121,67): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(128,48): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(128,85): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(129,42): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(129,67): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(91,20): warning C4244: 'initializing': conversion from 'float' to 'GLint', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(92,20): warning C4244: 'initializing': conversion from 'float' to 'GLint', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(143,32): warning C4244: 'function': conversion from 'GLint' to 'float', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(142,19): warning C4244: 'initializing': conversion from 'float' to 'GLint', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(173,44): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(175,44): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  (compiling source file 'main.c')
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(27,1): warning C4005: 'TEXTUREWIDTH': macro redefinition
+  C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\texture.h(4,1):
+  see previous definition of 'TEXTUREWIDTH'
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(28,1): warning C4005: 'TEXTUREHEIGHT': macro redefinition
+  C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\texture.h(5,1):
+  see previous definition of 'TEXTUREHEIGHT'
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(41,1): warning C4005: 'SEACOLS': macro redefinition
+  C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\terrain.h(17,1):
+  see previous definition of 'SEACOLS'
+  
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(79,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(81,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(85,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(87,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(88,9): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(97,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(98,26): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(324,11): warning C4098: 'createPlane': 'void' function returning a value
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(337,47): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(338,47): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(329,20): warning C4101: 'int3': unreferenced local variable
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(329,14): warning C4101: 'int2': unreferenced local variable
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(329,8): warning C4101: 'int1': unreferenced local variable
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(396,11): warning C4098: 'createProp': 'void' function returning a value
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(409,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(410,45): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(411,55): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(420,44): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(421,44): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(422,54): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(401,20): warning C4101: 'int3': unreferenced local variable
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(401,14): warning C4101: 'int2': unreferenced local variable
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(401,8): warning C4101: 'int1': unreferenced local variable
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(764,12): warning C4244: 'function': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(764,20): warning C4244: 'function': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(790,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(791,33): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(858,16): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(860,17): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(863,19): warning C4244: 'function': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(863,32): warning C4244: 'function': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(888,35): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(1000,31): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(950,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(955,33): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(1050,15): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\akilf\Downloads\CompGraphProject (1)\CompGraphProject\main.c(1054,18): warning C4113: 'void (__cdecl *)(unsigned char,GLint,GLint)' differs in parameter lists from 'void (__cdecl *)(int,int,int)'
+  CompGraphProject.vcxproj -> C:\Users\akilf\Downloads\CompGraphProject (1)\x64\Debug\CompGraphProject.exe
+          1 file(s) copied.

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\texture.h.obj",
+            "outputs": [
+                "C:\\Users\\akilf\\source\\repos\\CompGraphProject\\CompGraphProject\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\akilf\\source\\repos\\CompGraphProject\\CompGraphProject\\x64\\Debug\\texture.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "texture.h",
+                    "source-path": "c:\\users\\akilf\\source\\repos\\compgraphproject\\compgraphproject\\texture.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
